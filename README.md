@@ -1,6 +1,6 @@
 # Music-store-analysis
 
-In this Music store analysis have used SQL functions such as Joins, Sub-queries, Aggregate, Window Functions and CTE’s to analyze and derive insights from provided musical store data.
+In Music store analysis i have used SQL functions such as Joins, Sub-queries, Aggregate, Window Functions and CTE’s to analyze and derive insights from provided musical store data.
 
 Able to derive insights from the data which has been mentioned below, using these insights music store stakeholders can implement the strategies such as throwing up promotion music festival, offers on certain music Genre, Offers on highest selling Artists songs to boost more sales.
 
