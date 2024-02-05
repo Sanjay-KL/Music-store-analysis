@@ -9,7 +9,7 @@ Some of the Key findings in this Projects are as below:
 1) Most famous genre is "Rock".
 2) USA is the country  and Prague is the city where music sold more
 3) "Led Zepplin" is the artist who wrote most songs 114, followed by U2 by 112.
-4) "Queen" is the artist who is most popular among all.
+4) "Queen" is the artist who is most popular among all who songs sold most.
 5) Country wise Famous music "Genre".
 
 
