@@ -6,7 +6,7 @@ In this analysis we are helping Music store stakeholders on finding key insights
 
 Queries and Output can be found in "Music store analysis queries output.docx" file.
 
-Some of the Key findings in this Projects are as below:
+Able to provide insights to Stakeholders, so that they can strategize accordingly. Some of Key findings were mentioned below:
 
 1) Most famous genre is "Rock".
 2) USA is the country  and Prague is the city where music sold more
