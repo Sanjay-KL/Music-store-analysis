@@ -1,12 +1,22 @@
 # Music-store-analysis
 
-In Music store analysis i have used SQL functions such as Joins, Sub-queries, Aggregate, Window Functions and CTE’s to analyze and derive insights from provided musical store data.
+# Technologies used:
+1) Excel
+2) SQL Server
 
-In this analysis we are helping Music store stakeholders on finding key insights and providing recomendation to increase their music sales.
+# Steps:
+1) Collecting the data from online (kaggle).
+2) Loading the data to SQL server
+3) Analysing the Data
+
+Using SQL Functions such as Joins, Sub-queries, Date functions, Case When statements, Aggregate functions and CTE’s to analyze and derive insights from provided data.
+
+
+In this analysis we are able to find key insights and by using it we can provide business stakeholders recomendation to increase their music sales.
 
 Queries and Output can be found in "Music store analysis queries output.docx" file.
 
-Able to provide insights to Stakeholders, so that they can strategize accordingly. Some of Key findings were mentioned below:
+Some of Key findings from data set has been mentioned below:
 
 1) Most famous genre is "Rock".
 2) USA is the country  and Prague is the city where music sold more
